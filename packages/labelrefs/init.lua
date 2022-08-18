@@ -20,7 +20,7 @@ local function moveLabelRefs (self)
     if node then
     for i = 1, #node do
       local marker = node[i].marker
-      node[i].pageno = self:formatCounter(SILE.scratch.counters.folio)
+      node[i].pageno = self.packages.counters:formatCounter(SILE.scratch.counters.folio)
       SILE.scratch.labelrefs[marker] = node[i]
     end
   end
