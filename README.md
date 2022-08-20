@@ -1,6 +1,7 @@
 # labelrefs.sile
 
 [![license](https://img.shields.io/github/license/Omikhleia/labelrefs.sile)](LICENSE)
+[![Luarocks](https://img.shields.io/luarocks/v/Omikhleia/labelrefs.sile?label=Luarocks&logo=Lua)](https://luarocks.org/modules/Omikhleia/labelrefs.sile)
 
 This package for the [SILE](https://github.com/sile-typesetter/sile) typesetting
 system provides tools for classes and packages to support cross-references within a document.
