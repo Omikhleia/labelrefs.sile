@@ -1,6 +1,7 @@
 # labelrefs.sile
 
-[![license](https://img.shields.io/github/license/Omikhleia/labelrefs.sile)](LICENSE)
+[![License](https://img.shields.io/github/license/Omikhleia/labelrefs.sile)](LICENSE)
+[![Luacheck](https://img.shields.io/github/workflow/status/Omikhleia/labelrefs.sile/Luacheck?label=Luacheck&logo=Lua)](https://github.com/Omikhleia/labelrefs.sile/actions?workflow=Luacheck)
 [![Luarocks](https://img.shields.io/luarocks/v/Omikhleia/labelrefs.sile?label=Luarocks&logo=Lua)](https://luarocks.org/modules/Omikhleia/labelrefs.sile)
 
 This package for the [SILE](https://github.com/sile-typesetter/sile) typesetting
